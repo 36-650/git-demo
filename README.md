@@ -1,2 +1,2 @@
 # git-demo
-Demo Repository
+Welcome to 36-650 demo Repository
